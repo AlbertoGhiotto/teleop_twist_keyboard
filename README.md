@@ -28,9 +28,17 @@ Moving around:
 
 For Holonomic mode (strafing), hold down the shift key:
 ---------------------------
-   U    I    O
-   J    K    L
-   M    <    >
+   Q	W    E
+   A	S    D
+   Z	X    C
+   
+   
+Rotation:
+---------------------------
+R - Counterclockwise rotation
+T - Clockwise rotation
+
+
 
 t : up (+z)
 b : down (-z)
